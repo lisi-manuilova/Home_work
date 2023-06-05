@@ -1,0 +1,15 @@
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\bin\Debug\net6.0\exp47.exe
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\bin\Debug\net6.0\exp47.deps.json
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\bin\Debug\net6.0\exp47.runtimeconfig.json
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\bin\Debug\net6.0\exp47.dll
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\bin\Debug\net6.0\exp47.pdb
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.csproj.AssemblyReference.cache
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.AssemblyInfoInputs.cache
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.AssemblyInfo.cs
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.csproj.CoreCompileInputs.cache
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.dll
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\refint\exp47.dll
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.pdb
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\exp47.genruntimeconfig.cache
+C:\Users\lis_m\Desktop\exp47-50-52\exp47\obj\Debug\net6.0\ref\exp47.dll
