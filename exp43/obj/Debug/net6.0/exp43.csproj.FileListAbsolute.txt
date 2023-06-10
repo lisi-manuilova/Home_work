@@ -1,0 +1,15 @@
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\bin\Debug\net6.0\exp43.exe
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\bin\Debug\net6.0\exp43.deps.json
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\bin\Debug\net6.0\exp43.runtimeconfig.json
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\bin\Debug\net6.0\exp43.dll
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\bin\Debug\net6.0\exp43.pdb
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.csproj.AssemblyReference.cache
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.AssemblyInfoInputs.cache
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.AssemblyInfo.cs
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.csproj.CoreCompileInputs.cache
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.dll
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\refint\exp43.dll
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.pdb
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\exp43.genruntimeconfig.cache
+C:\Users\lis_m\Desktop\C#\Home_work\exp43\obj\Debug\net6.0\ref\exp43.dll
